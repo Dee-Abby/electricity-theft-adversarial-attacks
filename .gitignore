@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Model files
+*.pkl
+*.joblib
+
+# Dataset
+credentials/
+
+# macOS/Linux
+.DS_Store
