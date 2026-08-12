@@ -75,7 +75,3 @@ Jupyter Notebook
 
 ---
 
-## Citation
-
-B.Tech Final Year Project
-Federal University of Technology Akure
