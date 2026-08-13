@@ -23,7 +23,7 @@ and the engineer_features function from feature_engineering.py
 
 import numpy as np
 import pandas as pd
-from src.feature_engineering import engineer_features
+from feature_engineering import engineer_features
 
 
 def get_raw_readings(df_clean, customer_ids, label_col="FLAG"):
